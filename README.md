@@ -6,4 +6,4 @@
 
 [Version 3] https://orlamccarneyixd.github.io/type-history/typehistory_3.html
 
-[Version 4] https://orlamccarneyixd.github.io/type-history/typehistory_4html
+[Version 4] https://orlamccarneyixd.github.io/type-history/typehistory_14html
